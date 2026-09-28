@@ -1,0 +1,6 @@
+{
+  "name": "MuJoCo Humanoid 17-DOF Physics Sandbox",
+  "description": "3D MuJoCo Humanoid 17-DOF ragdoll physics simulation with Gymnasium asset compliance, accurate joint limits, gravity controls, and interactive camera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
